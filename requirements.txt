@@ -19,6 +19,7 @@ fsspec==2021.10.1
 genapi==0.0.8
 gevent==21.8.0
 greenlet==1.1.2
+gunicorn
 HTMLParser==0.0.2
 hypothesis==6.24.0
 importlib_metadata==4.8.1
