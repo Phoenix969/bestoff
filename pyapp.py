@@ -70,7 +70,6 @@ def red_ind():
     return render_template('index.html')
 
 def validate():
-
     df = pd.read_csv(orders_path)
     products = pd.read_csv(products_path)
     if (details_dict['o_oid'] not in df.columns):
