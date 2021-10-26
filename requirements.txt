@@ -9,7 +9,7 @@ cftime==1.5.1
 ConfigParser==5.0.2
 cryptography==35.0.0
 cycler==0.10.0
-Cython==0.29.24
+
 dask==2021.10.0
 dl==0.1.0
 docutils==0.17.1
@@ -24,7 +24,7 @@ HTMLParser==0.0.2
 hypothesis==6.24.0
 importlib_metadata==4.8.1
 ipython==7.28.0
-jnius==1.1.0
+
 keyring==23.2.1
 lockfile==0.12.2
 lxml==4.6.3
